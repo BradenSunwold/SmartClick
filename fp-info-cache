@@ -1,4 +1,4 @@
-21674305497302269
+21676018309501643
 47589_0001_USB_B
 MOLEX_47589-0001
 
@@ -328,6 +328,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+BreakoutBoards_Custom
+STM6601_Breakout
+
+
+0
+10
+10
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
